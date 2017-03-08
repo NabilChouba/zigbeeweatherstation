@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log/>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>916</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>103</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows>
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly>
+      <Watch>
+        <Format>
+          <struct_types/>
+          <watch_formats><Fmt><Key>{W}Watch-0:ADC10AE1</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:IE2</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:IFG2</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:P2DIR</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:P2OUT</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:P2SEL</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:P3DIR</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:P3OUT</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:P3SEL</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:P4DIR</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:P4OUT</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:UCB0CTL0</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:UCB0CTL1</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:UCB0RXIFG</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:UCB0STAT</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:UCB0TXBUF</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:UCB0TXIFG</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:dH[0]</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:dH[j-1]</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:dH[j]</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:dL[0]</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:dL[j-1]</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:dL[j]</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:dT[0]</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:dT[j-1]</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:dT[j]</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:j</Key><Value>3</Value></Fmt></watch_formats>
+        </Format>
+        
+        
+        
+        
+      <Column0>100</Column0><Column1>158</Column1><Column2>100</Column2><Column3>100</Column3></Watch>
+      <QuickWatch>
+        
+        
+        
+        
+      <Column0>100</Column0><Column1>173</Column1><Column2>100</Column2><Column3>100</Column3></QuickWatch>
+    </Static>
+    <Windows>
+      
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25866-5146</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-25344-5156</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3847-5150</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>my</ExpandedNode><ExpandedNode>my/main.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-2174-6205</Identity>
+            <TabName>Quick Watch</TabName>
+            <Factory>QuickWatch</Factory>
+            <Session>
+              
+            <Expression>accTemp</Expression></Session>
+          </Tab>
+          <Tab>
+            <Identity>TabID-20534-6270</Identity>
+            <TabName>Watch</TabName>
+            <Factory>Watch</Factory>
+            <Session>
+              <Expressions>
+                
+                
+                
+                
+              <Expression><Expression>accLight</Expression></Expression><Expression><Expression>ADC10MEM</Expression></Expression><Expression><Expression>accTemp</Expression></Expression><Expression><Expression>accHumdity</Expression></Expression><Expression><Expression>TACCR1</Expression></Expression><Expression><Expression>TACCR0</Expression></Expression><Expression><Expression>ChargeTime</Expression></Expression><Expression><Expression>DischargeTime</Expression></Expression><Expression><Expression>accHumdity</Expression></Expression><Expression><Expression>humidity</Expression></Expression><Expression><Expression>Temperature</Expression></Expression><Expression><Expression>capa</Expression></Expression><Expression><Expression>Rtemp</Expression></Expression><Expression><Expression>(1024/ADC10MEM)*3.63</Expression></Expression><Expression><Expression>dH[j]</Expression></Expression><Expression><Expression>dT[j]</Expression></Expression><Expression><Expression>dL[j]</Expression></Expression><Expression><Expression>m</Expression></Expression></Expressions>
+              
+              
+              
+              
+              
+            <TabId>0</TabId><Column0>100</Column0><Column1>158</Column1><Column2>100</Column2><Column3>100</Column3></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd5><Wnd7><Tabs><Tab><Identity>TabID-20988-3065</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd7></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\lcdnokia\lcd.h</Filename><XPos>0</XPos><YPos>43</YPos><SelStart>2013</SelStart><SelEnd>2013</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\lcdnokia\lcd.c</Filename><XPos>0</XPos><YPos>5</YPos><SelStart>678</SelStart><SelEnd>678</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\lcdnokia\main.c</Filename><XPos>0</XPos><YPos>56</YPos><SelStart>1613</SelStart><SelEnd>1613</SelEnd></Tab><ActiveTab>2</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\lcdnokia\capteur.c</Filename><XPos>0</XPos><YPos>40</YPos><SelStart>1553</SelStart><SelEnd>1553</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\lcdnokia\capteur.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>565</SelStart><SelEnd>565</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0192e410><key>iaridepm.enu1</key></Toolbar-0192e410></Sizes></Row0><Row1><Sizes><Toolbar-07136378><key>debuggergui.enu1</key></Toolbar-07136378></Sizes></Row1><Row2><Sizes><Toolbar-099c3260><key>430fet1</key></Toolbar-099c3260></Sizes></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5><Row6><Sizes/></Row6><Row7><Sizes/></Row7><Row8><Sizes/></Row8><Row9><Sizes/></Row9><Row10><Sizes/></Row10><Row11><Sizes/></Row11><Row12><Sizes/></Row12><Row13><Sizes/></Row13><Row14><Sizes/></Row14><Row15><Sizes/></Row15><Row16><Sizes/></Row16><Row17><Sizes/></Row17><Row18><Sizes/></Row18><Row19><Sizes/></Row19><Row20><Sizes/></Row20><Row21><Sizes/></Row21><Row22><Sizes/></Row22><Row23><Sizes/></Row23><Row24><Sizes/></Row24><Row25><Sizes/></Row25><Row26><Sizes/></Row26><Row27><Sizes/></Row27><Row28><Sizes/></Row28><Row29><Sizes/></Row29><Row30><Sizes/></Row30><Row31><Sizes/></Row31><Row32><Sizes/></Row32><Row33><Sizes/></Row33><Row34><Sizes/></Row34><Row35><Sizes/></Row35><Row36><Sizes/></Row36><Row37><Sizes/></Row37><Row38><Sizes/></Row38><Row39><Sizes/></Row39><Row40><Sizes/></Row40><Row41><Sizes/></Row41><Row42><Sizes/></Row42><Row43><Sizes/></Row43><Row44><Sizes/></Row44><Row45><Sizes/></Row45><Row46><Sizes/></Row46><Row47><Sizes/></Row47><Row48><Sizes/></Row48><Row49><Sizes/></Row49><Row50><Sizes/></Row50><Row51><Sizes/></Row51><Row52><Sizes/></Row52><Row53><Sizes/></Row53><Row54><Sizes/></Row54><Row55><Sizes/></Row55><Row56><Sizes/></Row56><Row57><Sizes/></Row57><Row58><Sizes/></Row58><Row59><Sizes/></Row59><Row60><Sizes/></Row60><Row61><Sizes/></Row61></Top><Left><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>436</Bottom><Right>177</Right><x>-2</x><y>-2</y><xscreen>0</xscreen><yscreen>0</yscreen><sizeHorzCX>0</sizeHorzCX><sizeHorzCY>0</sizeHorzCY><sizeVertCX>139844</sizeVertCX><sizeVertCY>596730</sizeVertCY></Rect></Wnd4></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>436</Bottom><Right>423</Right><x>-2</x><y>-2</y><xscreen>0</xscreen><yscreen>0</yscreen><sizeHorzCX>0</sizeHorzCX><sizeHorzCY>0</sizeHorzCY><sizeVertCX>332031</sizeVertCX><sizeVertCY>596730</sizeVertCY></Rect></Wnd5></Sizes></Row0><Row1><Sizes><Wnd7><Rect><Top>-2</Top><Left>421</Left><Bottom>436</Bottom><Right>621</Right><x>421</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>272480</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>596730</sizeVertCY></Rect></Wnd7></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>206</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>208</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>283379</sizeHorzCY><sizeVertCX>0</sizeVertCX><sizeVertCY>0</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
